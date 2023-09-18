@@ -1,15 +1,15 @@
 # Hindi_to_Hinglish
 
-#Problem Statement:
+# Problem Statement:
 We need to translate the sentence from Hindi to Hinglish (Hindi + English).
 
-#Aim:
+# Aim:
 In that translation,the non-native Hindi speaker should also understand it. So it should be natural and elegant.
 
-#Libraries used:
+# Libraries used:
 We have used spaCy for Natural language processing and Translator for the translation.
 
-#How it works?:
+# How it works?:
 ***
   1. We have the spaCy English language model ("en_core_web_sm"). This NLP model helps used to filter out the nouns from the input sentence.
     why to filter out the nouns?

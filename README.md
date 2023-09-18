@@ -1,7 +1,7 @@
 # Hindi_to_Hinglish
 
 # Problem Statement:
-We need to translate the sentence from Hindi to Hinglish (Hindi + English).
+We need to translate the sentence from English to Hinglish (Hindi + English).
 
 # Aim:
 In that translation,the non-native Hindi speaker should also understand it. So it should be natural and elegant.
@@ -20,3 +20,8 @@ We have used spaCy for Natural language processing and Translator for the transl
   5. We will put back the translated words into a single sentence
   6. We will get our required output.
 ***
+
+
+<img width="1512" alt="Screenshot 2023-09-19 at 3 23 21 AM" src="https://github.com/ramkumar-mv/English_to_Hinglish/assets/86485511/d245decd-ebfb-43bd-96cf-e08f038bf887">
+
+[Source:] (https://pressbooks.pub/roughwritersguide/back-matter/writing-for-non-native-speakers/)

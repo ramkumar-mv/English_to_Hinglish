@@ -1,4 +1,4 @@
-# Hindi_to_Hinglish
+# English_to_Hinglish
 
 # Problem Statement:
 We need to translate the sentence from English to Hinglish (Hindi + English).

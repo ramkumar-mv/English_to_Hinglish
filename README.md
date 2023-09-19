@@ -16,7 +16,7 @@ We have used spaCy for Natural language processing and Translator for the transl
       ~ In parts of speech nouns are the first one and easiest one of all. If you can read the noun(person,place or thing). There is a high probability that the person can understand the sentence easily.
   2. We are also translating sentence to Hindi ("hi"), split the input sentence into words, and initialize an empty list to store translated words.
   3. Now we have nouns in one hand and translated sentence which is stored in a list as words in another hand.
-  4.We will start a loop that iterates through each word in the input sentence, If a word is found in the nouns list, it is added to the translated_words list as is. If it's not a noun, it is translated into Hindi using the translator object, and the translation is added to the translated_words list.
+  4.We will start a loop that iterates through each word in the input sentence, If a word is found in the nouns list, it is added to the translated_words list as it is. If it's not a noun, it is translated into Hindi using the translator object, and the translation is added to the translated_words list.
   5. We will put back the translated words into a single sentence
   6. We will get our required output.
 ***
